@@ -1,4 +1,8 @@
 # Mask R-CNN 
+### 大家好， 我是卓发林。一名中南民族大学生物医学工程学院的硕士研究生，目前的研究方向是基于深度学习目标检测算法与无线胶囊内窥镜的消化道疾病检测
+### 自我感觉硕士阶段的学习很愉快也很辛苦，就顺手更新一波自己的GitHub仓库吧。由于我本人的基础也不算差，目前本人从事的项目原因从而接触到最多的深度学习算法主要是目标检测类型，包括经典的Faster R-CNN(二阶段，anchor-base)、SSD和yolo系列(一阶段，anchor-base)等，后面将更新自己其余的目标检测算法代码。自己有空的时候也会接触别的领域算法（如语义分割、自然语言处理、OCR、道路检测等等）
+### 如果大家喜欢，可以留下大家的脚印。哈哈哈哈~~
+### 祝好
 
 ## 环境配置
 * python3
@@ -6,7 +10,7 @@
 * pycocotools(Linux: pip install pycocotools;   
   Windows下的详细建议按照该[方法](https://www.cnblogs.com/masbay/p/10727280.html) 安装.
   强烈推荐安装[anaconda](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/) 的同时安装[Visual Studio](https://visualstudio.microsoft.com/zh-hans/vs/) 。
-  毕竟深度学习的代码底层使用的是.cpp .h等，需要进行必要且必要的编译
+  毕竟深度学习的代码底层使用的是.cpp .h等，需要进行必要且必要的编译；
 * Ubuntu或Centos(不建议Windows)
 * 最好使用GPU训练
 
